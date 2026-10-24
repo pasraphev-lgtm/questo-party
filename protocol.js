@@ -1,5 +1,5 @@
-// Deliberately cosmetic: this protocol cannot mutate saves, rewards or combat.
-export const PARTY_VERSION=1;
+// Shared world simulation and server-owned cooperative guardian battles.
+export const PARTY_VERSION=3;
 export const PARTY_LIMIT=8;
 export const CODE_ALPHABET='ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
 export const EMOTES={wave:'👋',cheer:'🎉',heart:'💛',ready:'✓'};
